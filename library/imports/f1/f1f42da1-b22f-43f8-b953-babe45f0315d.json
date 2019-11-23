@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chaibia",
+    "texture": "d819263f-9ea2-453f-b66e-2b48a5a146db",
+    "atlas": "",
+    "rect": [
+      19,
+      2,
+      56,
+      204
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      94,
+      206
+    ]
+  }
+}

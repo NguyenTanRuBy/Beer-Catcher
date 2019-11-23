@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ketbia",
+    "texture": "edfcaa02-e1eb-49aa-bf80-258379289dbf",
+    "atlas": "",
+    "rect": [
+      17,
+      17,
+      161,
+      127
+    ],
+    "offset": [
+      2.5,
+      -5.5
+    ],
+    "originalSize": [
+      190,
+      150
+    ]
+  }
+}

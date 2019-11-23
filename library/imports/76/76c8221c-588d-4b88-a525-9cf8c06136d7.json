@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sabeco-background",
+    "texture": "4fd68ffa-b1e6-4406-af79-838b07758203",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1380,
+      790
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1380,
+      790
+    ]
+  }
+}
